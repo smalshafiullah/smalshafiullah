@@ -25,12 +25,12 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smalshafiullah&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=smalshafiullah&theme=tokyonight&hide_border=false" alt="GitHub streak" />
-</p>
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smalshafiullah&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=smalshafiullah&theme=tokyonight&hide_border=false" height="180px"/>
+</div>
 
 ---
 
