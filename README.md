@@ -7,7 +7,7 @@
 - 🌱 Exploring the world of **Cybersecurity, Ethical Hacking & Web Development**
 - 🛠️ Recently working on personal projects using **VS Code + Git + GitHub**
 - 💬 Ask me about **Python scripting, terminal automation, or Git/GitHub basics**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **shafiullahrahat007@gmail.com**
 - ⚡ Fun fact: I love converting boring tasks into Python scripts 🤖
 
 ---
