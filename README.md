@@ -1,49 +1,59 @@
 <h1 align="center">Hi 👋, I'm S. M. Al Shafiullah</h1>
-<h3 align="center">A passionate Python learner and future cybersecurity specialist from Bangladesh 🇧🇩</h3>
+<h3 align="center">Aspiring Python Developer | Cybersecurity Enthusiast | Tech Learner from Bangladesh 🇧🇩</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-- 🔭 I’m currently learning **Python, Flask, and Django**
-- 🌱 Exploring the world of **Cybersecurity, Ethical Hacking & Web Development**
-- 🛠️ Recently working on personal projects using **VS Code + Git + GitHub**
-- 💬 Ask me about **Python scripting, terminal automation, or Git/GitHub basics**
-- 📫 How to reach me: **shafiullahrahat007@gmail.com**
-- ⚡ Fun fact: I love converting boring tasks into Python scripts 🤖
-
----
-
-### 🚀 Tech Stack I’m Exploring:
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300px" alt="Coding">
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+### 🧑‍💻 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smalshafiullah&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=smalshafiullah&theme=tokyonight&hide_border=false" height="180px"/>
-</div>
-
----
-
-### 📌 Currently Building:
-- A simple task manager in Python (CLI & GUI)
-- Flask-based blog web application
-- Personal portfolio site
+- 🔭 Currently working on: **Python projects, Flask web apps, and scripting tools**
+- 🌱 Actively learning: **Full-Stack Web Development & Cybersecurity**
+- 🛠️ Using tools like: `VS Code`, `Git`, `GitHub`, `Linux`, `Blender`, `Premiere Pro`
+- 💬 Ask me about: **Python, Git/GitHub, Basic Cybersecurity**
+- 🎯 Goal: Build practical, real-world tools and grow as a Python backend dev
+- 📫 Reach me at: **shafiullahrahat007@gmail.com**
 
 ---
 
-### ❤️ Let's Connect:
-- 📬 Email: shafiullahrahat007@gmail.com
+### 🚀 Tech Stack I’m Exploring:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+### 📊 GitHub Stats
+
+| <img src="https://github-readme-stats.vercel.app/api?username=smalshafiullah&show_icons=true&theme=tokyonight" width="48%"> | <img src="https://github-readme-streak-stats.herokuapp.com?user=smalshafiullah&theme=tokyonight" width="48%"> |
+|:--:|:--:|
+
+---
+
+### 📌 Currently Working On
+
+- 🔹 **Task Manager App** using Python CLI
+- 🔹 **Flask Blog Website**
+- 🔹 Small tools/scripts to automate boring tasks
+
+---
+
+### 🌐 Let's Connect!
+
+- 📧 Email: **shafiullahrahat007@gmail.com**
+
+---
+
+<p align="center">
+  <em>“The only way to learn to code is to write a lot of code.”</em><br>
+  <strong>— Me, and probably every good developer ever 😄</strong>
+</p>
