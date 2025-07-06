@@ -14,7 +14,7 @@
 - 🛠️ Using tools like: `VS Code`, `Git`, `GitHub`, `Linux`, `Blender`, `Premiere Pro`
 - 💬 Ask me about: **Python, Git/GitHub, Basic Cybersecurity**
 - 🎯 Goal: Build practical, real-world tools and grow as a Python backend dev
-- 📫 Reach me at: **shafiullahrahat007@gmail.com**
+- 📫 Reach me at: **sm.alshafiullah@gmail.com**
 
 ---
 
@@ -49,7 +49,8 @@
 
 ### 🌐 Let's Connect!
 
-- 📧 Email: shafiullahrahat007@gmail.com
+- 📧 Email: sm.alshafiullah@gmail.com
+- 💼 LinkedIn (optional): [Add your link if available]
 
 ---
 
