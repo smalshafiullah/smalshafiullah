@@ -1,20 +1,29 @@
 <h1 align="center">Hi 👋, I'm S. M. Al Shafiullah</h1>
 <h3 align="center">Aspiring Python Developer | Cybersecurity Enthusiast | Tech Learner from Bangladesh 🇧🇩</h3>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300px" alt="Coding">
-</p>
-
----
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      
+<div align="justify">
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working on: **Python projects, Flask web apps, and scripting tools**
-- 🌱 Actively learning: **Full-Stack Web Development & Cybersecurity**
-- 🛠️ Using tools like: `VS Code`, `Git`, `GitHub`, `Linux`, `Blender`, `Premiere Pro`
-- 💬 Ask me about: **Python, Git/GitHub, Basic Cybersecurity**
-- 🎯 Goal: Build practical, real-world tools and grow as a Python backend dev
-- 📫 Reach me at: **sm.alshafiullah@gmail.com**
+- 🔭 Currently working on: **Python projects, Flask web apps, and scripting tools**  
+- 🌱 Actively learning: **Full-Stack Web Development & Cybersecurity**  
+- 🛠️ Using tools like: `VS Code`, `Git`, `GitHub`, `Linux`, `Blender`, `Premiere Pro`  
+- 💬 Ask me about: **Python, Git/GitHub, Basic Cybersecurity**  
+- 🎯 Goal: Build practical, real-world tools and grow as a Python backend dev  
+- 📫 Reach me at: **shafiullahrahat007@gmail.com**
+
+</div>
+
+   </td>
+   <td width="40%">
+     <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding">
+   </td>
+  </tr>
+</table>
 
 ---
 
@@ -41,16 +50,15 @@
 
 ### 📌 Currently Working On
 
-- 🔹 **Task Manager App** using Python CLI
-- 🔹 **Flask Blog Website**
+- 🔹 **Task Manager App** using Python CLI  
+- 🔹 **Flask Blog Website**  
 - 🔹 Small tools/scripts to automate boring tasks
 
 ---
 
 ### 🌐 Let's Connect!
 
-- 📧 Email: sm.alshafiullah@gmail.com
-- 💼 LinkedIn (optional): [Add your link if available]
+- 📧 Email: **shafiullahrahat007@gmail.com**
 
 ---
 
