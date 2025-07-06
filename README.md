@@ -49,7 +49,7 @@
 
 ### 🌐 Let's Connect!
 
-- 📧 Email: **shafiullahrahat007@gmail.com**
+- 📧 Email: shafiullahrahat007@gmail.com
 
 ---
 
